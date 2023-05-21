@@ -1,0 +1,4 @@
+2 5
+a b c e e
+b a d a d
+abcd
