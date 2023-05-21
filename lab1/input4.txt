@@ -1,0 +1,10 @@
+8 8
+r y m h l u l h
+e a f y r a o p
+w e r t y u i l
+t d b u m z f c
+a b c d e f g h
+i j r b m n o p
+q r s r i c k x
+y z a b c k s f
+bricks
