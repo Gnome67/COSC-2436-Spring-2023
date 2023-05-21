@@ -1,0 +1,6 @@
+Insert(aaabb)
+Insert(abbbb)
+Insert(ababa)
+Mirror
+Insert(aaaaa)
+PrintLR

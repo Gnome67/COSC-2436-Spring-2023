@@ -1,0 +1,12 @@
+Insert(17)
+Mirror
+PrintLR
+Insert(18)
+Mirror
+PrintLR
+Insert(19)
+Mirror
+PrintLR
+Insert(20)
+Mirror
+PrintLR
