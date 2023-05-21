@@ -1,5 +1,0 @@
-3 4
-o m e t
-r i l c
-d n a p
-palindrome
